@@ -1,4 +1,4 @@
 # docker-wordpress
 
 dockerized wordpress
-Use `docker pull bibcnrs/wordpress`
+Use `docker pull insermbiblio/wordpress`
